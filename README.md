@@ -9,7 +9,7 @@
 <h2 align="left">Sobre mim</h2>
 
 <p align="left">
-  ✨ Criando bugs desde 2009<br>
+  ✨ Desenvolvendo soluções desde 2009<br>
   📚 Atualmente estudando Kubernetes, Docker e React Native<br>
   🎯 Objetivo: Crescimento contínuo com foco em ciência da computação e mercado internacional<br>
   💡 Fun fact: Sou do tempo do ASP clássico, mas hoje vivo em containers ☁️🐳
